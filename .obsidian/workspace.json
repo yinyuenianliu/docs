@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "60ac4fa1af605298",
+        "id": "c52b44ea3c8d07d5",
         "type": "tabs",
         "children": [
           {
-            "id": "a12afbb6c408bd1a",
+            "id": "0a11ca89e7572e20",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,10 +172,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a12afbb6c408bd1a",
+  "active": "0a11ca89e7572e20",
   "lastOpenFiles": [
-    "未命名",
-    "movies/天使无关肤色.md",
+    "movies/天使无关肤色-绿里奇迹.md",
+    "front-end/vue",
+    "front-end",
     "movies"
   ]
 }
