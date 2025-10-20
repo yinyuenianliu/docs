@@ -20,3 +20,7 @@
 ## Phrase
 - pass by：经过，路过，从...旁走过
 - blow down： 吹倒
+
+## Sentence
+- Not by the hairs on my chinny chin chin!
+    这是一个非常经典的口语化表达，表示坚决的拒绝。chinny chin chin 是为了押韵而做的重复，很可爱。你可以简化为 No way! (没门！) 或 Absolutely not! (绝对不行！)
